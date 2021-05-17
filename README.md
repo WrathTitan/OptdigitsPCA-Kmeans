@@ -16,17 +16,35 @@ Group project for Machine Learning and Deep Learning ECE642 subject.
 
 ---
 
-Team Members - 
+**Team Members -** 
 
-* Rishabh Bhatt (1MS18EC089)
-* Yash Bagri (1MS18EC134)
-* Khushi S Patil (1MS18EC046)
+* **Rishabh Bhatt (1MS18EC089)**
+* **Yash Bagri (1MS18EC134)**
+* **Khushi S Patil (1MS18EC046)**
 
 ---
 
-Link to dataset - 
+Link to dataset - https://archive.ics.uci.edu/ml/datasets/optical+recognition+of+handwritten+digits 
+or
+https://datahub.io/machine-learning/optdigits
 
-Results - 
+Results - Successfully applied PCA to the original dataset and then applied the Kmean clustering algorithm to obtain an accuaracy of around 70%.
+
+Link to notebook - https://github.com/WrathTitan/OptdigitsPCA-Kmeans/blob/master/projectnotebook.ipynb
+
+---
+
+Note: You can run the project on Google Colab or in your system with python3 installed along with the following dependencies
+
+run in terminal to install the following - `pip3 install <Name-of-the-library>`
+
+```
+numpy
+pandas
+sklearn
+matplotlib
+seaborn
+```
 
 ---
 
