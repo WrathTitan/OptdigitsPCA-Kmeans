@@ -14,6 +14,8 @@ Group project for Machine Learning and Deep Learning ECE642 subject.
 6. Indentation 	- 1 mark
 7. Results and Discussion with images, graphs etc : 10 Marks
 
+The file names as `projectnotebook.ipynb` has the entire code.
+
 ---
 
 **Team Members -** 
